@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.6)
+The top-level auxiliary file: mpeek_fly_escape_tracking.aux
+The style file: ieeetr.bst
+Database file #1: refs.bib
+Name 1 in "Card,G., and Dickinson, M.H." has a comma at the end for entry card2008cb
+while executing---line 963 of file ieeetr.bst
+Name 1 in "Card,G., and Dickinson, M.H." has a comma at the end for entry card2008jeb
+while executing---line 963 of file ieeetr.bst
+You've used 2 entries,
+            1876 wiz_defined-function locations,
+            489 strings with 3767 characters,
+and the built_in function-call counts, 694 in all, are:
+= -- 73
+> -- 16
+< -- 0
++ -- 6
+- -- 4
+* -- 44
+:= -- 96
+add.period$ -- 2
+call.type$ -- 2
+change.case$ -- 2
+chr.to.int$ -- 0
+cite$ -- 2
+duplicate$ -- 36
+empty$ -- 64
+format.name$ -- 4
+if$ -- 175
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 2
+newline$ -- 9
+num.names$ -- 2
+pop$ -- 4
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 33
+stack$ -- 0
+substring$ -- 64
+swap$ -- 20
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 6
+width$ -- 3
+write$ -- 22
+(There were 2 error messages)
